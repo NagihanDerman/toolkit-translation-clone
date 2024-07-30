@@ -16,4 +16,4 @@ https://rapidapi.com/
 
 ### GIF
 
-<img src=""/>
+<img src="./public/ceviri.gif"/>
